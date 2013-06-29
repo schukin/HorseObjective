@@ -48,6 +48,7 @@
 		B790E158177F806A009A514A /* Horse ObjectiveTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Horse ObjectiveTests-Info.plist"; sourceTree = "<group>"; };
 		B790E15A177F806A009A514A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B790E15C177F806A009A514A /* Horse_ObjectiveTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Horse_ObjectiveTests.m; sourceTree = "<group>"; };
+		B790E166177F809F009A514A /* í ½í°´Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "í ½í°´Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		B790E12B177F806A009A514A = {
 			isa = PBXGroup;
 			children = (
+				B790E166177F809F009A514A /* í ½í°´Header.h */,
 				B790E13D177F806A009A514A /* Horse Objective */,
 				B790E156177F806A009A514A /* Horse ObjectiveTests */,
 				B790E136177F806A009A514A /* Frameworks */,
