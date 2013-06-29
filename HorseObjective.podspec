@@ -10,7 +10,8 @@ Pod::Spec.new do |s|
 	s.author		= { "Dave Schukin" => "daveschukin@gmail.com" }
 	s.source		= { :git => "https://github.com/schukin/HorseObjective", :tag => @version }
 	
-	s.source_files = './*{h,m}'
+	s.source_files		= './*{h,m}'
 	
-	s.dependency	= 'three20'
+	# wtf
+	#s.dependency		'three20', "https://github.com/facebook/three20"
 end
