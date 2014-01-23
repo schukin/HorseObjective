@@ -35,3 +35,6 @@
     } while (0)
 
 #endif
+
+/** lawl */
+typedef NSDictionary NSThesaurus;
